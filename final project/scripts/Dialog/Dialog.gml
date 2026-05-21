@@ -8,45 +8,30 @@ function create_dialog(_messages){
 
 char_colors = {
 	"Congrats": c_white,
-	"NPC": c_maroon,
-	"MC": c_teal,
+	"NIGHTSTAND": c_white,
+	"MC": c_yellow,
 	"Bally": c_red
 }
 
 welcome_dialog = [
 {
-	name: "NPC",
-	msg: "Why am I so close to the lava?"
+	name: "NIGHTSTAND",
+	msg: "A signle nightstand."
 },
 
 {
-	name: "MC",
-	msg: "No idea."
+	name: "NIGHTSTAND",
+	msg: "You check the drawer..."
 },
 
 {
-	name: "NPC",
-	msg: "Apparently the person who coded this game wanted to customize our sprites."
+	name: "NIGHTSTAND",
+	msg: "..."
 },
 
 {
-	name: "MC",
-	msg: "Really?"
-},
-
-{
-	name: "NPC",
-	msg: "Yeah, but she couldn't find a pixelart style that she liked."
-},
-
-{
-	name: "NPC",
-	msg: "And she was too lazy to do it."
-},
-
-{
-	name: "MC",
-	msg: "Oh."
+	name: "NIGHTSTAND",
+	msg: "Nothing."
 },
 ]
 
