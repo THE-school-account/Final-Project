@@ -9,9 +9,16 @@ function create_dialog(_messages){
 char_colors = {
 	"Congrats": c_white,
 	"NIGHTSTAND": c_white,
-	"MC": c_yellow,
+	"MC": c_white,
 	"Bally": c_red
 }
+
+room1_end = [
+{
+	name: "MC",
+	msg: "Finally, I can get out of here."
+}
+]
 
 welcome_dialog = [
 {
