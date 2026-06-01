@@ -23,7 +23,7 @@ room1_end = [
 welcome_dialog = [
 {
 	name: "NIGHTSTAND",
-	msg: "A signle nightstand."
+	msg: "A single nightstand."
 },
 
 {
