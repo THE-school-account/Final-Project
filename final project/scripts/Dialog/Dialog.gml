@@ -10,7 +10,7 @@ char_colors = {
 	"Congrats": c_white,
 	"NIGHTSTAND": c_white,
 	"MC": c_white,
-	"Bally": c_red
+	"PAPERS": c_white
 }
 
 room1_end = [
@@ -42,14 +42,19 @@ welcome_dialog = [
 },
 ]
 
-bally_dialog1 = [
+paper_dialog = [
 {
-	name: "MC",
-	msg: "Bally? What are you doing here?"
+	name: "PAPERS",
+	msg: "There's some discarded papers on the ground."
 },
 
 {
-	name: "Bally",
-	msg: "Waiting for them to play Gangnam Style."
+	name: "PAPERS",
+	msg: "You look closer, only to realize they're written in gibberish."
+},
+
+{
+	name: "PAPERS",
+	msg: "ZNOY CGY G VUOTZRKYY GKYYGMK. EIAXK YZAIQ BYZY."
 },
 ]

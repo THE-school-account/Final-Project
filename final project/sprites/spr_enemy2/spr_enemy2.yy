@@ -22,6 +22,7 @@
   "height":20,
   "HTile":false,
   "layers":[
+    {"$GMImageLayer":"","%Name":"ca959122-c1d8-448d-aa7b-bbea835fa4f9","blendMode":0,"displayName":"Layer 1","isLocked":false,"name":"ca959122-c1d8-448d-aa7b-bbea835fa4f9","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
     {"$GMImageLayer":"","%Name":"8989201d-ed25-470e-8bf4-540d104ed92d","blendMode":0,"displayName":"default","isLocked":false,"name":"8989201d-ed25-470e-8bf4-540d104ed92d","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"spr_enemy2",
