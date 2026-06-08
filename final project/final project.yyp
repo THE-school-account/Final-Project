@@ -57,6 +57,8 @@
     {"id":{"name":"level_2","path":"rooms/level_2/level_2.yy",},},
     {"id":{"name":"main_menu","path":"rooms/main_menu/main_menu.yy",},},
     {"id":{"name":"Dialog","path":"scripts/Dialog/Dialog.yy",},},
+    {"id":{"name":"snd_interact_sfx","path":"sounds/snd_interact_sfx/snd_interact_sfx.yy",},},
+    {"id":{"name":"hi","path":"sprites/hi/hi.yy",},},
     {"id":{"name":"spr_battle_screen","path":"sprites/spr_battle_screen/spr_battle_screen.yy",},},
     {"id":{"name":"spr_box_but_for_bars","path":"sprites/spr_box_but_for_bars/spr_box_but_for_bars.yy",},},
     {"id":{"name":"spr_box","path":"sprites/spr_box/spr_box.yy",},},

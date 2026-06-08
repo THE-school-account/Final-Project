@@ -58,3 +58,10 @@ paper_dialog = [
 	msg: "ZNOY CGY G VUOTZRKYY GKYYGMK. EIAXK YZAIQ BYZY."
 },
 ]
+
+room2_start = [
+{
+	name: "MC",
+	msg: "Huh? Am I still here?"
+},
+]
