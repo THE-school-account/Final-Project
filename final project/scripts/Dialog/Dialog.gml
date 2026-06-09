@@ -13,6 +13,11 @@ char_colors = {
 	"PAPERS": c_white,
 	"CHAIR": c_white,
 	"PLANT": c_white,
+	"NIGHTSTAND?": c_white,
+	"PAPERS?": c_white,
+	"CHAIR?": c_white,
+	"PLANT?": c_white,
+	"SLUDGE": c_white
 }
 
 room1_end = [
@@ -109,5 +114,85 @@ room3_start = [
 {
 	name: "MC",
 	msg: "..."
+},
+]
+
+nightstand_clone = [
+{
+	name: "NIGHTSTAND?",
+	msg: "There's three of them now."
+},
+{
+	name: "NIGHTSTAND?",
+	msg: "Last time there was two..."
+},
+]
+
+papers_clone = [
+{
+	name: "PAPERS?",
+	msg: "There's something different on the third one."
+},
+{
+	name: "PAPERS?",
+	msg: "Do you know North, East, South, and West here?"
+},
+{
+	name: "PAPERS?",
+	msg: "You don't."
+},
+]
+
+chair_clone = [
+{
+	name: "CHAIR?",
+	msg: "What do you even do with three chairs?"
+},
+{
+	name: "CHAIR?",
+	msg: "... Don't answer that."
+},
+]
+
+plant_clone = [
+{
+	name: "PLANT?",
+	msg: "The third plants leaf is blackened and wilted,"
+},
+{
+	name: "PLANT?",
+	msg: "Yet the stem is fine."
+},
+]
+
+sludge_dialog = [
+{
+	name: "SLUDGE",
+	msg: "A weird black liquid puddle that's sticky to the touch."
+},
+{
+	name: "SLUDGE",
+	msg: "Seems to be where those blobs appear."
+},
+]
+
+room3_end = [
+{
+	name: "MC",
+	msg: "I don't want to walk anymore..."
+},
+]
+
+room4_start = [
+{
+	name: "MC",
+	msg: "A long hallway..."
+},
+]
+
+room4_end = [
+{
+	name: "MC",
+	msg: "That was it?"
 },
 ]
