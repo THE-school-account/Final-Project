@@ -7,10 +7,12 @@ function create_dialog(_messages){
 }
 
 char_colors = {
-	"Congrats": c_white,
+	"CONGRATS": c_white,
 	"NIGHTSTAND": c_white,
 	"MC": c_white,
-	"PAPERS": c_white
+	"PAPERS": c_white,
+	"CHAIR": c_white,
+	"PLANT": c_white,
 }
 
 room1_end = [
@@ -63,5 +65,49 @@ room2_start = [
 {
 	name: "MC",
 	msg: "Huh? Am I still here?"
+},
+]
+
+chair_dialog = [
+{
+	name: "CHAIR",
+	msg: "Seems like a regular chair you'd find in an elementary school."
+},
+{
+	name: "CHAIR",
+	msg: "You press your hand against it to see if you could sit on it."
+},
+{
+	name: "CHAIR",
+	msg: "It creaks loudly."
+},
+]
+
+plant_dialog = [
+{
+	name: "PLANT",
+	msg: "A wilted, potted plant."
+},
+{
+	name: "PLANT",
+	msg: "..."
+},
+{
+	name: "PLANT",
+	msg: "Depressing."
+},
+]
+
+room2_end = [
+{
+	name: "MC",
+	msg: "Could I leave now?"
+},
+]
+
+room3_start = [
+{
+	name: "MC",
+	msg: "..."
 },
 ]
