@@ -196,3 +196,31 @@ room4_end = [
 	msg: "That was it?"
 },
 ]
+
+room5_start = [
+{
+	name: "MC",
+	msg: "This seems shorter."
+},
+]
+
+room5_end = [
+{
+	name: "MC",
+	msg: "Please let this be the end."
+},
+]
+
+room6_start = [
+{
+	name: "MC",
+	msg: "I think I'm close."
+},
+]
+
+room6_end = [
+{
+	name: "MC",
+	msg: "Please..."
+},
+]
