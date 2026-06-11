@@ -17,7 +17,8 @@ char_colors = {
 	"PAPERS?": c_white,
 	"CHAIR?": c_white,
 	"PLANT?": c_white,
-	"SLUDGE": c_white
+	"SLUDGE": c_white,
+	"SIGN": c_white
 }
 
 room1_end = [
@@ -222,5 +223,16 @@ room6_end = [
 {
 	name: "MC",
 	msg: "Please..."
+},
+]
+
+sign_dialog = [
+{
+	name: "SIGN",
+	msg: "There is no hope. This is the end."
+},
+{
+	name: "MC",
+	msg: "... Oh."
 },
 ]
